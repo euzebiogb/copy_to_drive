@@ -35,7 +35,7 @@ Copiar
 Editar
 REMOTE_NOME="seu_remote"
 
-##🛠 Validações
+## 🛠 Validações
 O script realiza verificações como:
 
 Existência do arquivo informado.
